@@ -1,5 +1,9 @@
 # PicPay Clone - Estudo de Caso
 
+![](src/images/home.jpeg)
+
+
+
 Este repositório foi desenvolvido com base no video abaixo
 
 [YouTube](https://youtu.be/0CraBZHejKI)
